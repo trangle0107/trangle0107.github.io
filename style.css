@@ -1,0 +1,82 @@
+.avatar .img{
+    height: auto;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid blue;
+    object-fit: cover;
+}
+
+.avatar {
+    margin-top: 50px;
+    font-family: 'Montserrat';
+    color: #353535;
+    margin-bottom: 35px;
+    
+}
+.name,.id,.pos {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.avatar .name{
+    font-family: 'Montserrat';
+    color: #353535;
+    font-size: 26px;
+}
+
+.avatar .id{
+    color: #808080;
+    font-family: 'Montserrat' medium;
+    font-size: 18px;
+}
+
+.avatar .pos {
+    font-size: 18px;
+}
+
+.fbIcon img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: orange;
+    margin-right: 15px;
+}
+
+.githubIcon img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: orange
+}
+
+.description {
+    font-family: 'Montserrat';
+    font-size: 18px;
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 60px;
+    color: #353535;
+}
+.description .post {
+    font-family: 'Montserrat';
+    font-size: 18px;
+    margin-left: 45px;
+    font-weight: bold;
+}
+
+.description .postDetail {
+    font-family: 'Montserrat';
+    font-size: 18px;
+    margin-left: 45px;
+    margin-top: 0px;
+}
+
+footer {
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 90px;
+}
+
